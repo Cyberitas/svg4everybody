@@ -1,6 +1,6 @@
 {
-  "name": "svg4everybody",
-  "version": "2.1.9",
+  "name": "svg4everybody-cyber",
+  "version": "2.2.0",
   "description": "Use external SVG spritemaps in any browser",
   "main": "dist/svg4everybody.js",
   "dependencies": {},
@@ -23,7 +23,7 @@
     "test": "grunt test",
     "watch": "grunt build:watch"
   },
-  "repository": "jonathantneal/svg4everybody",
+  "repository": "Cyberitas/svg4everybody",
   "keywords": [
     "contents",
     "defs",
